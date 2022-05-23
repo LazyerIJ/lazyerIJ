@@ -45,7 +45,7 @@
 - 주요 업무
   - ECG Peak Detection 기술 개발
   - 소형 카메라 보드 개발
-  - 독거노인 관리 시스템 개발 (KATIST 과제)
+  - 독거노인 관리 시스템 개발 (KAIST 과제)
 - 사용 기술
   - Python
   - Python Flask
@@ -130,3 +130,13 @@
 **Cloud**
 
 - AWS
+  - VPN / Subnet 설계 및 구축
+  - VPN 연결
+  - ALB / NLB 구축
+  - Auto Scaling / Template 사용
+  - RDS
+  - S3  (로그 저장 및 정적 호스팅)
+  - Cloudwatch / SNS 
+  - EKS
+  - Python boto3
+- Kubernetes
