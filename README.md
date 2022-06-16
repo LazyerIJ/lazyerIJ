@@ -14,6 +14,7 @@
 - 닉네임: lazyer
 - 이메일: spozam01@gmail.com
 - 블로그: https://lazyer.tistory.com
+- StackOverflow: https://stackoverflow.com/users/8282898/lazyer
 - 취미: 피아노, 리그오브레전드, 개발 스터디, 생산성 향상 툴 찾아보기
 
 
