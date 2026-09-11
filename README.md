@@ -1,152 +1,90 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLazyerIJ&count_bg=%23364053&title_bg=%23287BAE&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<div align="center">
 
-# Lazyer을 소개합니다!
+<img src="https://readme-typing-svg.demolab.com/?lines=systems+that+keep+running+when+nobody+is+watching;quietly%2C+mostly+async&font=Fira%20Code&size=18&color=6E7681&center=true&vCenter=true&width=560&height=45&pause=1400" alt="" />
+
+<br/>
+
+`stateless by design` · `async by nature` · `idempotent on purpose`
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+> The interesting part was never the model.
+> It was everything that had to stay standing around it.
+
+<br/>
+
+### ◦ now
+
+```yaml
+building:
+  - agent runtimes that survive their own restarts
+  - pipelines nobody has to babysit at 3am
+  - fewer moving parts than last quarter
+
+measuring:
+  - p99, not p50
+  - lines deleted, not lines written
+
+status: shipping
+```
+
+<br/>
+
+### ◦ stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-1f2328?style=flat-square&logo=python&logoColor=9aa4ae)
+![Django](https://img.shields.io/badge/Django-1f2328?style=flat-square&logo=django&logoColor=9aa4ae)
+![GraphQL](https://img.shields.io/badge/GraphQL-1f2328?style=flat-square&logo=graphql&logoColor=9aa4ae)
+![Postgres](https://img.shields.io/badge/PostgreSQL-1f2328?style=flat-square&logo=postgresql&logoColor=9aa4ae)
+
+![Docker](https://img.shields.io/badge/Docker-1f2328?style=flat-square&logo=docker&logoColor=9aa4ae)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-1f2328?style=flat-square&logo=kubernetes&logoColor=9aa4ae)
+![ArgoCD](https://img.shields.io/badge/Argo%20CD-1f2328?style=flat-square&logo=argo&logoColor=9aa4ae)
+![Kafka](https://img.shields.io/badge/Kafka-1f2328?style=flat-square&logo=apachekafka&logoColor=9aa4ae)
+![Redis](https://img.shields.io/badge/Redis-1f2328?style=flat-square&logo=redis&logoColor=9aa4ae)
+![Celery](https://img.shields.io/badge/Celery-1f2328?style=flat-square&logo=celery&logoColor=9aa4ae)
+
+</div>
+
+<br/>
+
+### ◦ operating principles
 
 ```
-잘 좀 하자
+1. make it boring        — surprise is a production incident
+2. make it observable    — if you can't see it, you don't own it
+3. make it deletable     — every system should be easy to walk away from
 ```
 
+<br/>
 
+### ◦ signals
 
-### 프로필
+<div align="center">
 
----
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=LazyerIJ&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&icon_color=6E7681&text_color=8b949e&hide=issues" alt="" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LazyerIJ&layout=compact&hide_border=true&hide_title=true&bg_color=00000000&text_color=8b949e&langs_count=6" alt="" />
 
-- 이름: 김인주
-- 닉네임: lazyer
-- 이메일: spozam01@gmail.com
-- 블로그: https://lazyer.tistory.com / https://lazyerij.github.io/
-- StackOverflow: https://stackoverflow.com/users/8282898/lazyer
-- 취미: 피아노, 리그오브레전드, 개발 스터디, Stackoverflow
+</div>
 
-
-
-### 자격증
+<br/>
 
 ---
 
-- 정보처리기사
+<div align="center">
 
+<sub>게으른 게 아니라, 두 번 하기 싫은 겁니다.</sub>
 
+<br/><br/>
 
-### 관심사
+<sub>`lazyer` · always compiling</sub>
 
----
-
-- 데이터 분석 대회 참가
-
-
-
-### 기술 스택
-
----
-
-**Backend**
-
-- Python Django / Graphql
-
-**DA**
-
-- Keras
-- Tensorflow
-- Pandas
-
-**Service**
-- Docker
-- Kafka
-- AWS
-- Kubernetes
-- Argocd / Grafana / Prometheus
-
-
-
-### 경력
-
----
-
-**솔미테크**
-
-- 재직 기간: 2018.08 ~ 2019.02
-- 주요 업무
-  - ECG(심전도) Peak Detection 알고리즘 개발
-  - 독거노인 관리시스템 개발
-  - 부정맥 분류 모델 개발
-  - 소형 카메라(헬스케어) 온보드 개발
-- 사용 기술
-  - Python, C
-  - Keras, Tensorflow
-  - Flask, Postgresql, Ajax, WebSocket
-
-
-**씨즈데이터**
-
-- 재직 기간
-  - 2020.03 ~ 2022.11
-- 소속
-  - 개발팀
-- 주요 업무
-  - OCR 수행 속도 개선 프로젝트 진행
-  - 정보분류 및 요약항목 배치프로그램 개발 (on-premise & AWS)
-  - 건강보험 요약항목 생성 엔진 개발
-  - 마이데이터 API 개발
-  - ADMS(대안정보 통합관리 시스템) 개발
-  - AWS 구축/운용
-  - nGrinder를 이용한 서버 성능 측정
-- 사용 기술
-  - Python Django
-  - Postgresql
-  - AWS
-  - Redis & Celery
-  - 파일 및 API 전문 통신
-
-
-**에잇퍼센트**
-
-- 재직 기간
-  - 2022.12 ~ 2023.04
-- 소속
-  - 대외계
-- 주요 업무
-  - 신용정보원 전문 집중
-  - 카카오뱅크 연계 시스템 구축
-- 사용 기술
-  - Python Django
-  - Serverless
-  - Kafka
-
-
-**퀀팃**
-- 재직 기간
-  - 2023.04 ~ (재직중)
-- 소속
-  - 올리팀
-- 주요 업무
-  - RA '올리' 서비스 백엔드 개발
-    - 사수님이 갑자기 떠나셔서 혼자서 다 개발
-- 사용기술
-  - Python Django
-  - Graphql
-  - Kubernetes
-  - ArgoCD & Grafana & Prometheus
-  - RabbitMQ & Redis & Celery
-  - CICD
-
-
-**ETC - DA**
-
-- 2019 DIgital Forensics Challenge Rank 1
-- (Kaggle)NFL Big Data Bowl: Top 8% (동메달 획득)
-- (Dacon)Predict Future Sales 21th
-- (Dacon)전체유형 분류 7/940(Public) 21/940(Private)
-- (Dacon)공공데이터활용 온도추정 AI 77/1222(Public) 55/1222(Private)
-- (Dacon)주차수요 예측 19/1427(Private)
-- (Kaggle)Titanic: Top 13%
-- (Kaggle)House Prices: Top 6%
-- (Kaggle)2019 3rd ML month with KaKR: Top 27%
-- (논문)1차원 합성곱 신경망에 기반한 부정맥 분류 시스템의 설계
-- (Coursera)Marchine Learning 수료
-- (Coursera)Deep Learning 수료
-
-
-
-
+</div>
