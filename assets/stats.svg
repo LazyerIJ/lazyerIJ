@@ -6,7 +6,7 @@
 <rect x="24" y="24" width="226" height="92" rx="12" fill="#11161f" stroke="#1c2430"/>
 <circle cx="70" cy="70" r="26" fill="none" stroke="#1b2330" stroke-width="4"/>
 <circle cx="70" cy="70" r="26" fill="none" stroke="#22d3ee" stroke-width="4" stroke-linecap="round" transform="rotate(-90 70 70)" stroke-dasharray="163.4" stroke-dashoffset="40.8"><animate attributeName="stroke-dashoffset" values="40.8;163.4;40.8" keyTimes="0;.004;1" dur="1.60s" fill="freeze"/></circle>
-<text x="70" y="70" text-anchor="middle" fill="#22d3ee" font-size="11" font-weight="700">561</text>
+<text x="70" y="70" text-anchor="middle" fill="#22d3ee" font-size="11" font-weight="700">570</text>
 <text x="108" y="58" fill="#c9d4e0" font-size="13" font-weight="700">contributions</text>
 <text x="108" y="78" fill="#4d5865" font-size="10.5">last 12 months</text>
 </g>
@@ -14,7 +14,7 @@
 <rect x="266" y="24" width="226" height="92" rx="12" fill="#11161f" stroke="#1c2430"/>
 <circle cx="312" cy="70" r="26" fill="none" stroke="#1b2330" stroke-width="4"/>
 <circle cx="312" cy="70" r="26" fill="none" stroke="#a855f7" stroke-width="4" stroke-linecap="round" transform="rotate(-90 312 70)" stroke-dasharray="163.4" stroke-dashoffset="40.8"><animate attributeName="stroke-dashoffset" values="40.8;163.4;40.8" keyTimes="0;.004;1" dur="1.72s" fill="freeze"/></circle>
-<text x="312" y="70" text-anchor="middle" fill="#a855f7" font-size="11" font-weight="700">24</text>
+<text x="312" y="70" text-anchor="middle" fill="#a855f7" font-size="11" font-weight="700">25</text>
 <text x="350" y="58" fill="#c9d4e0" font-size="13" font-weight="700">public repos</text>
 <text x="350" y="78" fill="#4d5865" font-size="10.5">sources only</text>
 </g>
@@ -36,44 +36,44 @@
 </g>
 <text x="24" y="146" fill="#7d8a99" font-size="11.5" letter-spacing="1.5">LANGUAGE SPLIT</text>
 <rect x="24" y="160" width="952" height="14" rx="7" fill="#11161f"/>
-<rect x="24.0" y="160" height="14" width="408.0" fill="#3572A5" opacity=".92"><animate attributeName="width" values="408.0;0;408.0" keyTimes="0;.004;1" dur="1.20s" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1" fill="freeze"/></rect>
-<rect x="432.0" y="160" height="14" width="272.0" fill="#DA5B0B" opacity=".92"><animate attributeName="width" values="272.0;0;272.0" keyTimes="0;.004;1" dur="1.34s" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1" fill="freeze"/></rect>
-<rect x="704.0" y="160" height="14" width="136.0" fill="#f1e05a" opacity=".92"><animate attributeName="width" values="136.0;0;136.0" keyTimes="0;.004;1" dur="1.48s" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1" fill="freeze"/></rect>
-<rect x="840.0" y="160" height="14" width="45.3" fill="#89e051" opacity=".92"><animate attributeName="width" values="45.3;0;45.3" keyTimes="0;.004;1" dur="1.62s" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1" fill="freeze"/></rect>
-<rect x="885.3" y="160" height="14" width="45.3" fill="#e34c26" opacity=".92"><animate attributeName="width" values="45.3;0;45.3" keyTimes="0;.004;1" dur="1.76s" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1" fill="freeze"/></rect>
-<rect x="930.7" y="160" height="14" width="45.3" fill="#A97BFF" opacity=".92"><animate attributeName="width" values="45.3;0;45.3" keyTimes="0;.004;1" dur="1.90s" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1" fill="freeze"/></rect>
+<rect x="24.0" y="160" height="14" width="413.9" fill="#3572A5" opacity=".92"><animate attributeName="width" values="413.9;0;413.9" keyTimes="0;.004;1" dur="1.20s" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1" fill="freeze"/></rect>
+<rect x="437.9" y="160" height="14" width="248.3" fill="#DA5B0B" opacity=".92"><animate attributeName="width" values="248.3;0;248.3" keyTimes="0;.004;1" dur="1.34s" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1" fill="freeze"/></rect>
+<rect x="686.3" y="160" height="14" width="165.6" fill="#f1e05a" opacity=".92"><animate attributeName="width" values="165.6;0;165.6" keyTimes="0;.004;1" dur="1.48s" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1" fill="freeze"/></rect>
+<rect x="851.8" y="160" height="14" width="41.4" fill="#89e051" opacity=".92"><animate attributeName="width" values="41.4;0;41.4" keyTimes="0;.004;1" dur="1.62s" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1" fill="freeze"/></rect>
+<rect x="893.2" y="160" height="14" width="41.4" fill="#e34c26" opacity=".92"><animate attributeName="width" values="41.4;0;41.4" keyTimes="0;.004;1" dur="1.76s" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1" fill="freeze"/></rect>
+<rect x="934.6" y="160" height="14" width="41.4" fill="#A97BFF" opacity=".92"><animate attributeName="width" values="41.4;0;41.4" keyTimes="0;.004;1" dur="1.90s" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1" fill="freeze"/></rect>
 <g><animate attributeName="opacity" values="1;0;0;1" keyTimes="0;.004;0.550;1" dur="1.80s" fill="freeze"/>
 <circle cx="28" cy="196" r="4" fill="#3572A5"/>
 <text x="39" y="196" fill="#c9d4e0" font-size="11.5">Python</text>
-<text x="88" y="196" fill="#4d5865" font-size="11.5">42.9%</text>
+<text x="88" y="196" fill="#4d5865" font-size="11.5">43.5%</text>
 </g>
 <g><animate attributeName="opacity" values="1;0;0;1" keyTimes="0;.004;0.550;1" dur="1.90s" fill="freeze"/>
 <circle cx="152" cy="196" r="4" fill="#DA5B0B"/>
 <text x="163" y="196" fill="#c9d4e0" font-size="11.5">Jupyter Notebook</text>
-<text x="282" y="196" fill="#4d5865" font-size="11.5">28.6%</text>
+<text x="282" y="196" fill="#4d5865" font-size="11.5">26.1%</text>
 </g>
 <g><animate attributeName="opacity" values="1;0;0;1" keyTimes="0;.004;0.550;1" dur="2.00s" fill="freeze"/>
 <circle cx="346" cy="196" r="4" fill="#f1e05a"/>
 <text x="357" y="196" fill="#c9d4e0" font-size="11.5">JavaScript</text>
-<text x="434" y="196" fill="#4d5865" font-size="11.5">14.3%</text>
+<text x="434" y="196" fill="#4d5865" font-size="11.5">17.4%</text>
 </g>
 <g><animate attributeName="opacity" values="1;0;0;1" keyTimes="0;.004;0.550;1" dur="2.10s" fill="freeze"/>
 <circle cx="498" cy="196" r="4" fill="#89e051"/>
 <text x="509" y="196" fill="#c9d4e0" font-size="11.5">Shell</text>
-<text x="551" y="196" fill="#4d5865" font-size="11.5">4.8%</text>
+<text x="551" y="196" fill="#4d5865" font-size="11.5">4.3%</text>
 </g>
 <g><animate attributeName="opacity" values="1;0;0;1" keyTimes="0;.004;0.550;1" dur="2.20s" fill="freeze"/>
 <circle cx="607" cy="196" r="4" fill="#e34c26"/>
 <text x="618" y="196" fill="#c9d4e0" font-size="11.5">HTML</text>
-<text x="653" y="196" fill="#4d5865" font-size="11.5">4.8%</text>
+<text x="653" y="196" fill="#4d5865" font-size="11.5">4.3%</text>
 </g>
 <g><animate attributeName="opacity" values="1;0;0;1" keyTimes="0;.004;0.550;1" dur="2.30s" fill="freeze"/>
 <circle cx="710" cy="196" r="4" fill="#A97BFF"/>
 <text x="721" y="196" fill="#c9d4e0" font-size="11.5">Kotlin</text>
-<text x="770" y="196" fill="#4d5865" font-size="11.5">4.8%</text>
+<text x="770" y="196" fill="#4d5865" font-size="11.5">4.3%</text>
 </g>
 <text x="156.5" y="228" fill="#7d8a99" font-size="11.5" letter-spacing="1.5">CONTRIBUTIONS</text>
-<text x="843.5" y="228" text-anchor="end" fill="#4d5865" font-size="11">561 in the last year</text>
+<text x="843.5" y="228" text-anchor="end" fill="#4d5865" font-size="11">570 in the last year</text>
 <text x="156.5" y="246" fill="#4d5865" font-size="9.5">Sep</text>
 <g><animate attributeName="opacity" values="1;0;0;1" keyTimes="0;.004;0.0200;1" dur="1.20s" fill="freeze"/>
 <rect x="156.5" y="258" width="11" height="11" rx="2.5" fill="#161b22"/>
@@ -395,7 +395,7 @@
 <rect x="598.5" y="284" width="11" height="11" rx="2.5" fill="#161b22"/>
 <rect x="598.5" y="297" width="11" height="11" rx="2.5" fill="#161b22"/>
 <rect x="598.5" y="310" width="11" height="11" rx="2.5" fill="#161b22"/>
-<rect x="598.5" y="323" width="11" height="11" rx="2.5" fill="#161b22"/>
+<rect x="598.5" y="323" width="11" height="11" rx="2.5" fill="#0b3f4d"/>
 <rect x="598.5" y="336" width="11" height="11" rx="2.5" fill="#0b3f4d"/>
 </g>
 <g><animate attributeName="opacity" values="1;0;0;1" keyTimes="0;.004;0.4050;1" dur="2.25s" fill="freeze"/>
