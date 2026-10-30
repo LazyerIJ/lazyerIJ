@@ -14,7 +14,7 @@
 <rect x="266" y="24" width="226" height="92" rx="12" fill="#11161f" stroke="#1c2430"/>
 <circle cx="312" cy="70" r="26" fill="none" stroke="#1b2330" stroke-width="4"/>
 <circle cx="312" cy="70" r="26" fill="none" stroke="#a855f7" stroke-width="4" stroke-linecap="round" transform="rotate(-90 312 70)" stroke-dasharray="163.4" stroke-dashoffset="40.8"><animate attributeName="stroke-dashoffset" values="40.8;163.4;40.8" keyTimes="0;.004;1" dur="1.72s" fill="freeze"/></circle>
-<text x="312" y="70" text-anchor="middle" fill="#a855f7" font-size="11" font-weight="700">26</text>
+<text x="312" y="70" text-anchor="middle" fill="#a855f7" font-size="11" font-weight="700">28</text>
 <text x="350" y="58" fill="#c9d4e0" font-size="13" font-weight="700">public repos</text>
 <text x="350" y="78" fill="#4d5865" font-size="10.5">sources only</text>
 </g>
@@ -36,44 +36,44 @@
 </g>
 <text x="24" y="146" fill="#7d8a99" font-size="11.5" letter-spacing="1.5">LANGUAGE SPLIT</text>
 <rect x="24" y="160" width="952" height="14" rx="7" fill="#11161f"/>
-<rect x="24.0" y="160" height="14" width="436.3" fill="#3572A5" opacity=".92"><animate attributeName="width" values="436.3;0;436.3" keyTimes="0;.004;1" dur="1.20s" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1" fill="freeze"/></rect>
-<rect x="460.3" y="160" height="14" width="238.0" fill="#DA5B0B" opacity=".92"><animate attributeName="width" values="238.0;0;238.0" keyTimes="0;.004;1" dur="1.34s" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1" fill="freeze"/></rect>
-<rect x="698.3" y="160" height="14" width="158.7" fill="#f1e05a" opacity=".92"><animate attributeName="width" values="158.7;0;158.7" keyTimes="0;.004;1" dur="1.48s" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1" fill="freeze"/></rect>
-<rect x="857.0" y="160" height="14" width="39.7" fill="#89e051" opacity=".92"><animate attributeName="width" values="39.7;0;39.7" keyTimes="0;.004;1" dur="1.62s" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1" fill="freeze"/></rect>
-<rect x="896.7" y="160" height="14" width="39.7" fill="#e34c26" opacity=".92"><animate attributeName="width" values="39.7;0;39.7" keyTimes="0;.004;1" dur="1.76s" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1" fill="freeze"/></rect>
-<rect x="936.3" y="160" height="14" width="39.7" fill="#A97BFF" opacity=".92"><animate attributeName="width" values="39.7;0;39.7" keyTimes="0;.004;1" dur="1.90s" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1" fill="freeze"/></rect>
+<rect x="24.0" y="160" height="14" width="476.0" fill="#3572A5" opacity=".92"><animate attributeName="width" values="476.0;0;476.0" keyTimes="0;.004;1" dur="1.20s" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1" fill="freeze"/></rect>
+<rect x="500.0" y="160" height="14" width="219.7" fill="#DA5B0B" opacity=".92"><animate attributeName="width" values="219.7;0;219.7" keyTimes="0;.004;1" dur="1.34s" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1" fill="freeze"/></rect>
+<rect x="719.7" y="160" height="14" width="146.5" fill="#f1e05a" opacity=".92"><animate attributeName="width" values="146.5;0;146.5" keyTimes="0;.004;1" dur="1.48s" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1" fill="freeze"/></rect>
+<rect x="866.2" y="160" height="14" width="36.6" fill="#89e051" opacity=".92"><animate attributeName="width" values="36.6;0;36.6" keyTimes="0;.004;1" dur="1.62s" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1" fill="freeze"/></rect>
+<rect x="902.8" y="160" height="14" width="36.6" fill="#e34c26" opacity=".92"><animate attributeName="width" values="36.6;0;36.6" keyTimes="0;.004;1" dur="1.76s" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1" fill="freeze"/></rect>
+<rect x="939.4" y="160" height="14" width="36.6" fill="#A97BFF" opacity=".92"><animate attributeName="width" values="36.6;0;36.6" keyTimes="0;.004;1" dur="1.90s" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1" fill="freeze"/></rect>
 <g><animate attributeName="opacity" values="1;0;0;1" keyTimes="0;.004;0.550;1" dur="1.80s" fill="freeze"/>
 <circle cx="28" cy="196" r="4" fill="#3572A5"/>
 <text x="39" y="196" fill="#c9d4e0" font-size="11.5">Python</text>
-<text x="88" y="196" fill="#4d5865" font-size="11.5">45.8%</text>
+<text x="88" y="196" fill="#4d5865" font-size="11.5">50.0%</text>
 </g>
 <g><animate attributeName="opacity" values="1;0;0;1" keyTimes="0;.004;0.550;1" dur="1.90s" fill="freeze"/>
 <circle cx="152" cy="196" r="4" fill="#DA5B0B"/>
 <text x="163" y="196" fill="#c9d4e0" font-size="11.5">Jupyter Notebook</text>
-<text x="282" y="196" fill="#4d5865" font-size="11.5">25.0%</text>
+<text x="282" y="196" fill="#4d5865" font-size="11.5">23.1%</text>
 </g>
 <g><animate attributeName="opacity" values="1;0;0;1" keyTimes="0;.004;0.550;1" dur="2.00s" fill="freeze"/>
 <circle cx="346" cy="196" r="4" fill="#f1e05a"/>
 <text x="357" y="196" fill="#c9d4e0" font-size="11.5">JavaScript</text>
-<text x="434" y="196" fill="#4d5865" font-size="11.5">16.7%</text>
+<text x="434" y="196" fill="#4d5865" font-size="11.5">15.4%</text>
 </g>
 <g><animate attributeName="opacity" values="1;0;0;1" keyTimes="0;.004;0.550;1" dur="2.10s" fill="freeze"/>
 <circle cx="498" cy="196" r="4" fill="#89e051"/>
 <text x="509" y="196" fill="#c9d4e0" font-size="11.5">Shell</text>
-<text x="551" y="196" fill="#4d5865" font-size="11.5">4.2%</text>
+<text x="551" y="196" fill="#4d5865" font-size="11.5">3.8%</text>
 </g>
 <g><animate attributeName="opacity" values="1;0;0;1" keyTimes="0;.004;0.550;1" dur="2.20s" fill="freeze"/>
 <circle cx="607" cy="196" r="4" fill="#e34c26"/>
 <text x="618" y="196" fill="#c9d4e0" font-size="11.5">HTML</text>
-<text x="653" y="196" fill="#4d5865" font-size="11.5">4.2%</text>
+<text x="653" y="196" fill="#4d5865" font-size="11.5">3.8%</text>
 </g>
 <g><animate attributeName="opacity" values="1;0;0;1" keyTimes="0;.004;0.550;1" dur="2.30s" fill="freeze"/>
 <circle cx="710" cy="196" r="4" fill="#A97BFF"/>
 <text x="721" y="196" fill="#c9d4e0" font-size="11.5">Kotlin</text>
-<text x="770" y="196" fill="#4d5865" font-size="11.5">4.2%</text>
+<text x="770" y="196" fill="#4d5865" font-size="11.5">3.8%</text>
 </g>
 <text x="156.5" y="228" fill="#7d8a99" font-size="11.5" letter-spacing="1.5">CONTRIBUTIONS</text>
-<text x="843.5" y="228" text-anchor="end" fill="#4d5865" font-size="11">2486 in the last year</text>
+<text x="843.5" y="228" text-anchor="end" fill="#4d5865" font-size="11">2514 in the last year</text>
 <g><animate attributeName="opacity" values="1;0;0;1" keyTimes="0;.004;0.0200;1" dur="1.20s" fill="freeze"/>
 <rect x="156.5" y="258" width="11" height="11" rx="2.5" fill="#161b22"/>
 <rect x="156.5" y="271" width="11" height="11" rx="2.5" fill="#161b22"/>
@@ -560,6 +560,7 @@
 <rect x="832.5" y="284" width="11" height="11" rx="2.5" fill="#0b3f4d"/>
 <rect x="832.5" y="297" width="11" height="11" rx="2.5" fill="#0b3f4d"/>
 <rect x="832.5" y="310" width="11" height="11" rx="2.5" fill="#0b3f4d"/>
+<rect x="832.5" y="323" width="11" height="11" rx="2.5" fill="#0b3f4d"/>
 </g>
 <defs><linearGradient id="scanx" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22d3ee" stop-opacity="0"/><stop offset=".5" stop-color="#22d3ee" stop-opacity=".22"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></linearGradient></defs>
 <rect y="258" width="90" height="89" fill="url(#scanx)"><animate attributeName="x" values="66.5;843.5" dur="5s" begin="3s" repeatCount="indefinite"/></rect>
@@ -570,5 +571,5 @@
 <rect x="804.5" y="367" width="11" height="11" rx="2.5" fill="#19b0cb"/>
 <rect x="817.5" y="367" width="11" height="11" rx="2.5" fill="#22d3ee"/>
 <text x="834.5" y="373" fill="#4d5865" font-size="10">more</text>
-<text x="156.5" y="373" fill="#4d5865" font-size="10">generated 2026-10-29 &#183; refreshed daily by github actions</text>
+<text x="156.5" y="373" fill="#4d5865" font-size="10">generated 2026-10-30 &#183; refreshed daily by github actions</text>
 </svg>
